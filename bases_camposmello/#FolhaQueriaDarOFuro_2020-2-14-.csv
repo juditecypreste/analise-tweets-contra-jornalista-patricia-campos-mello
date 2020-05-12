@@ -1,0 +1,5 @@
+id,conversation_id,created_at,date,time,timezone,user_id,username,name,place,tweet,mentions,urls,photos,replies_count,retweets_count,likes_count,hashtags,cashtags,link,retweet,quote_url,video,near,geo,source,user_rt_id,user_rt,retweet_id,reply_to,retweet_date,translate,trans_src,trans_dest
+1227342793514848257,1227340184313790472,1581456299000,2020-02-11,18:24:59,Hora oficial do Brasil,1190219243624783872,sergiomenorahs1,sergiomenorahsete,,"Kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+#FolhaQueriaDarOFuro
+@camposmello a meretriz da Folha pic.twitter.com/xq969HZlH2","['dariojjunior', 'camposmello']",[],['https://pbs.twimg.com/media/EQhlxA2XUAM18pe.jpg'],0,0,0,['#folhaqueriadarofuro'],[],https://twitter.com/sergiomenorahs1/status/1227342793514848257,False,,0,,,,,,,"[{'user_id': '1190219243624783872', 'username': 'sergiomenorahs1'}, {'user_id': '2842615187', 'username': 'dariojjunior'}, {'user_id': '36714704', 'username': 'camposmello'}]",,,,

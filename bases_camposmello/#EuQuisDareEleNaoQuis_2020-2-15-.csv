@@ -1,0 +1,4 @@
+id,conversation_id,created_at,date,time,timezone,user_id,username,name,place,tweet,mentions,urls,photos,replies_count,retweets_count,likes_count,hashtags,cashtags,link,retweet,quote_url,video,near,geo,source,user_rt_id,user_rt,retweet_id,reply_to,retweet_date,translate,trans_src,trans_dest
+1227653471551283200,1227403081270353924,1581530370000,2020-02-12,14:59:30,Hora oficial do Brasil,446658048,romifiater,Tábua Ouija disse SIM... Lascou! 🇧🇷 🐶🦁🇧🇷,,"Confessa que você quis dar o furo (o de reportagem também) e o rapaz (que parece ter bom gosto), não quis.
+
+#EuQuisDareEleNaoQuis",['camposmello'],[],[],0,0,0,['#euquisdareelenaoquis'],[],https://twitter.com/RomiFiater/status/1227653471551283200,False,,0,,,,,,,"[{'user_id': '446658048', 'username': 'RomiFiater'}, {'user_id': '36714704', 'username': 'camposmello'}]",,,,
