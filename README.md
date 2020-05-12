@@ -1,4 +1,4 @@
-# Analise de tweets contra a jornalista Patricia Campos Mello
+# Análise de tweets contra a jornalista Patricia Campos Mello
 Este foi o código utilizado por trás da reportagem ["Twitter mantém ofensas sexuais na rede social no caso Patrícia Campos Mello"](https://noticias.uol.com.br/politica/ultimas-noticias/2020/03/12/patricia-campos-mello-ataques-twitter.htm), publicado no Portal UOL.
 
 ## Metodologia
